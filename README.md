@@ -1,5 +1,5 @@
 # libTotalVoice
-Api for communication with totalvoice SMS service.
+Library for communication with totalvoice SMS service.
 
 ## Example
 
